@@ -6,3 +6,5 @@ I'm Navya, a Computer Science engineering student and a fullstack developer. I t
 - 👯 I’m looking to collaborate on: All kinds of full stack web dev projects!
 - 🤔 I’m looking for help with: Getting started on AI ML projects.
   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
