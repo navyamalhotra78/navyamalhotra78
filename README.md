@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Computer Science Engineer | Building TwentyTwoStudio**
 
-Full stack developer and co-founder at TwentyTwo Studio, turning ideas into real-world digital experiences.
+Full stack developer and co-founder at TwentyTwo Studio, turning ideas into real-world digital experiences.  
 Learning by building. Exploring new technologies. Crafting clean, well-engineered products.
 
 ## 👯 Open to Collaborate On
