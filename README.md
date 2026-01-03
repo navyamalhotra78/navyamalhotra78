@@ -1,7 +1,30 @@
-### Hey! 👋
+# Hey there! 👋 I'm Navya  
 
-I'm Navya, a Computer Science engineering student and a fullstack developer. I thrive on continuous learning and eagerly embrace new challenges and projects. I'm fueled by a passion for exploring the vast realms of the tech world and am always excited to collaborate with fellow enthusiasts who share the same zest for discovery.
+🚀 **Full Stack Developer | Computer Science Engineer | Curious Builder**
 
-- 🌱 I’m currently learning : React and Flutter.
-- 👯 I’m looking to collaborate on: All kinds of full stack web dev projects!
-- 🤔 I’m looking for help with: Getting started on AI ML projects.
+I’m a passionate full stack developer who loves building, learning, and exploring new technologies. I thrive on turning ideas into real-world projects and enjoy working on products that blend clean design with solid engineering. Always curious, always experimenting ✨
+
+---
+
+## 👯 Open to Collaborate On
+- Full stack web applications  
+- SaaS products & dashboards  
+- Startup / hackathon projects  
+- Anything interesting that helps me learn and build 🚀  
+
+---
+
+## 💻 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express  
+**Databases:** MySQL, MongoDB  
+**Cloud:** AWS
+**Other:** Git, REST APIs, Machine Learning (NumPy, TensorFlow, Keras)
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: *https://www.linkedin.com/in/navya-malhotra-b5b411232/*  
+- 🌐 Portfolio: *https://navyamalhotra78.github.io/*  
+
+✨ *Always open to learning, building, and collaborating.*
