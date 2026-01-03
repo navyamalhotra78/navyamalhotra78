@@ -7,7 +7,6 @@ Learning by building. Exploring new technologies. Crafting clean, well-engineere
 
 Always curious. Always experimenting ✨
 
-
 ## 👯 Open to Collaborate On
 - Full stack web applications  
 - SaaS products & dashboards  
@@ -15,12 +14,11 @@ Always curious. Always experimenting ✨
 - Anything interesting that helps me learn and build 🚀  
 
 ## 💻 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, React Native (Expo)
-**Backend:** Node.js, Express  
+**Frontend:** HTML, CSS, JavaScript, React, React Native (Expo)  
+**Backend:** Node.js, Express, TypeScript
 **Databases:** MySQL, MongoDB  
 **Cloud:** AWS
 **Other:** Git, REST APIs, Machine Learning (NumPy, TensorFlow, Keras)
-
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn: *https://www.linkedin.com/in/navya-malhotra-b5b411232/*  
