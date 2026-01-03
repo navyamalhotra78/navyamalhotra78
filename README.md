@@ -13,7 +13,7 @@ Learning by building. Exploring new technologies. Crafting clean, well-engineere
 
 ## 💻 Tech Stack
 **Frontend:** HTML, CSS, JavaScript, React, React Native (Expo)  
-**Backend:** Node.js, Express, TypeScript
+**Backend:** Node.js, Express, TypeScript  
 **Databases:** MySQL, MongoDB  
 **Cloud:** AWS  
 **Other:** Git, REST APIs, Machine Learning (NumPy, TensorFlow, Keras)  
