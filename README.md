@@ -1,10 +1,12 @@
 # Hey there! 👋 I'm Navya  
 
-🚀 **Full Stack Developer | Computer Science Engineer | Curious Builder**
+🚀 **Full Stack Developer | Computer Science Engineer | Building TwentyTwoStudio**
 
-I’m a passionate full stack developer who loves building, learning, and exploring new technologies. I thrive on turning ideas into real-world projects and enjoy working on products that blend clean design with solid engineering. Always curious, always experimenting ✨
+Full stack developer and co-founder at TwentyTwo Studio, turning ideas into real-world digital experiences.
+Learning by building. Exploring new technologies. Crafting clean, well-engineered products.
 
----
+Always curious. Always experimenting ✨
+
 
 ## 👯 Open to Collaborate On
 - Full stack web applications  
@@ -12,16 +14,13 @@ I’m a passionate full stack developer who loves building, learning, and explor
 - Startup / hackathon projects  
 - Anything interesting that helps me learn and build 🚀  
 
----
-
 ## 💻 Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React  
+**Frontend:** HTML, CSS, JavaScript, React, React Native (Expo)
 **Backend:** Node.js, Express  
 **Databases:** MySQL, MongoDB  
 **Cloud:** AWS
 **Other:** Git, REST APIs, Machine Learning (NumPy, TensorFlow, Keras)
 
----
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn: *https://www.linkedin.com/in/navya-malhotra-b5b411232/*  
